@@ -1,0 +1,28 @@
+name: Exclusive Networks Pacific
+favicon: null
+layout_spectrum: 0.5081161267589778
+typography_spectrum: 0.13836810877546668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.891381551977247
+  lightness: 0.4874950118828565
+  saturation: 0.6501360447145998
+  rhythmicContrast: 0.000107630155980587
+purpose: []
